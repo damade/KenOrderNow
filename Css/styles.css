@@ -1,0 +1,15 @@
+.button {
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #46377f; 
+    color:white;
+  }
+
+  input[type="button"]
+{
+    border: none;
+    outline:none;
+}
